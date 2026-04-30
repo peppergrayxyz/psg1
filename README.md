@@ -1,6 +1,6 @@
 # PSG1
 
-<img src="https://live.staticflickr.com/65535/55240408638_d5526f4eff_c.jpg" height="200" />
+<img src="pictures/PXL_20260424_225945339.jpg" height="200" />
 
 Website: https://www.playsolana.com/
 
@@ -18,9 +18,7 @@ Website: https://www.playsolana.com/
 
 ## Pictures
 
-<img src="https://live.staticflickr.com/65535/55240506394_18d469839e_b.jpg" height="300" />
-
-https://flic.kr/s/aHBqjCSx7d
+<a href="/pictures"><img src="pictures/PXL_20260430_133427679.jpg" height="300" /></a>
 
 ## Firmware
 
