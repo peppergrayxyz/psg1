@@ -20,6 +20,8 @@ Website: https://www.playsolana.com/
 
 <a href="/pictures"><img src="pictures/PXL_20260430_133427679.jpg" height="300" /></a>
 
+https://www.flickr.com/photos/202635032@N07/albums/72177720333404308/
+
 ## Firmware
 
 - https://ota.playsolana.com/api/v1/{device}/{type}/{incr}
