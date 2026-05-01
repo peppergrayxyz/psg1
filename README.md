@@ -27,3 +27,12 @@ https://www.flickr.com/photos/202635032@N07/albums/72177720333404308/
 - https://ota.playsolana.com/api/v1/{device}/{type}/{incr}
 - https://ota.playsolana.com/api/v1/PSG1/release/
 - https://ota.playsolana.com/builds/
+
+## Custom Software
+
+- <a href="SIDELOAD.md">Sideloading</a>
+- <a href="ROOT.md">Rooting</a>
+
+## Like this?
+
+☕ consider [buying me a coffee](https://buymeacoffee.com/peppergrayxyz) (:
